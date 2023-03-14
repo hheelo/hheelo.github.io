@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>hugo on xxx</title>
+    <link>https://hheelo.github.io/en/tags/hugo/</link>
+    <description>Recent content in hugo on xxx</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 17 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://hheelo.github.io/en/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello Hugo!</title>
+      <link>https://hheelo.github.io/en/posts/english/hello/</link>
+      <pubDate>Sat, 17 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://hheelo.github.io/en/posts/english/hello/</guid>
+      <description>This is a test page!</description>
+    </item>
+    
+  </channel>
+</rss>

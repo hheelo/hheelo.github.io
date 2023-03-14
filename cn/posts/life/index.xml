@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>🏖 生活 on xxx</title>
+    <link>https://hheelo.github.io/cn/posts/life/</link>
+    <description>Recent content in 🏖 生活 on xxx</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 05 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://hheelo.github.io/cn/posts/life/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>火锅</title>
+      <link>https://hheelo.github.io/cn/posts/life/hotpot/</link>
+      <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://hheelo.github.io/cn/posts/life/hotpot/</guid>
+      <description>请欣赏川味火锅！</description>
+    </item>
+    
+  </channel>
+</rss>

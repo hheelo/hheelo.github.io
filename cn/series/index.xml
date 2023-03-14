@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Series on xxx</title>
+    <link>https://hheelo.github.io/cn/series/</link>
+    <description>Recent content in Series on xxx</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 05 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://hheelo.github.io/cn/series/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>food</title>
+      <link>https://hheelo.github.io/cn/series/food/</link>
+      <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://hheelo.github.io/cn/series/food/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>spicy</title>
+      <link>https://hheelo.github.io/cn/series/spicy/</link>
+      <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://hheelo.github.io/cn/series/spicy/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
