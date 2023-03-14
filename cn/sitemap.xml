@@ -72,9 +72,6 @@
     <loc>https://hheelo.github.io/cn/links/</loc>
     <lastmod>2021-11-06T15:15:53+08:00</lastmod>
   </url><url>
-    <loc>https://hheelo.github.io/cn/about/</loc>
-    <lastmod>2021-11-06T14:57:28+08:00</lastmod>
-  </url><url>
     <loc>https://hheelo.github.io/cn/archives/</loc>
     <xhtml:link
                 rel="alternate"
@@ -100,6 +97,8 @@
                 hreflang="cn"
                 href="https://hheelo.github.io/cn/search/"
                 />
+  </url><url>
+    <loc>https://hheelo.github.io/cn/about/</loc>
   </url><url>
     <loc>https://hheelo.github.io/cn/categories/</loc>
     <xhtml:link
