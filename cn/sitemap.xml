@@ -2,8 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://hheelo.github.io/cn/posts/tech/</loc>
+    <lastmod>2023-03-14T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://hheelo.github.io/cn/posts/</loc>
-    <lastmod>2023-01-05T00:00:00+00:00</lastmod>
+    <lastmod>2023-03-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -15,17 +18,14 @@
                 href="https://hheelo.github.io/cn/posts/"
                 />
   </url><url>
-    <loc>https://hheelo.github.io/cn/tags/chongqing/</loc>
-    <lastmod>2023-01-05T00:00:00+00:00</lastmod>
+    <loc>https://hheelo.github.io/cn/tags/blog/</loc>
+    <lastmod>2023-03-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hheelo.github.io/cn/series/food/</loc>
-    <lastmod>2023-01-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://hheelo.github.io/cn/tags/hotpot/</loc>
-    <lastmod>2023-01-05T00:00:00+00:00</lastmod>
+    <loc>https://hheelo.github.io/cn/series/blog/</loc>
+    <lastmod>2023-03-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://hheelo.github.io/cn/series/</loc>
-    <lastmod>2023-01-05T00:00:00+00:00</lastmod>
+    <lastmod>2023-03-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -37,14 +37,11 @@
                 href="https://hheelo.github.io/cn/series/"
                 />
   </url><url>
-    <loc>https://hheelo.github.io/cn/tags/sichuan/</loc>
-    <lastmod>2023-01-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://hheelo.github.io/cn/series/spicy/</loc>
-    <lastmod>2023-01-05T00:00:00+00:00</lastmod>
+    <loc>https://hheelo.github.io/cn/series/tech/</loc>
+    <lastmod>2023-03-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://hheelo.github.io/cn/</loc>
-    <lastmod>2023-01-05T00:00:00+00:00</lastmod>
+    <lastmod>2023-03-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -56,8 +53,11 @@
                 href="https://hheelo.github.io/cn/"
                 />
   </url><url>
+    <loc>https://hheelo.github.io/cn/posts/tech/blog_set/</loc>
+    <lastmod>2023-03-14T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://hheelo.github.io/cn/tags/</loc>
-    <lastmod>2023-01-05T00:00:00+00:00</lastmod>
+    <lastmod>2023-03-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -68,12 +68,6 @@
                 hreflang="cn"
                 href="https://hheelo.github.io/cn/tags/"
                 />
-  </url><url>
-    <loc>https://hheelo.github.io/cn/posts/life/hotpot/</loc>
-    <lastmod>2023-01-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://hheelo.github.io/cn/posts/life/</loc>
-    <lastmod>2023-01-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://hheelo.github.io/cn/links/</loc>
     <lastmod>2021-11-06T15:15:53+08:00</lastmod>
@@ -92,8 +86,6 @@
                 hreflang="cn"
                 href="https://hheelo.github.io/cn/archives/"
                 />
-  </url><url>
-    <loc>https://hheelo.github.io/cn/posts/tech/</loc>
   </url><url>
     <loc>https://hheelo.github.io/cn/posts/notes/</loc>
   </url><url>
@@ -122,6 +114,8 @@
                 />
   </url><url>
     <loc>https://hheelo.github.io/cn/copyright/</loc>
+  </url><url>
+    <loc>https://hheelo.github.io/cn/posts/life/</loc>
   </url><url>
     <loc>https://hheelo.github.io/cn/posts/projects/</loc>
   </url>

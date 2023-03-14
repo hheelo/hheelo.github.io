@@ -6,14 +6,14 @@
     <description>Recent content on xxx</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 05 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://hheelo.github.io/cn/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 14 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://hheelo.github.io/cn/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>火锅</title>
-      <link>https://hheelo.github.io/cn/posts/life/hotpot/</link>
-      <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
+      <title>博客搭建经验</title>
+      <link>https://hheelo.github.io/cn/posts/tech/blog_set/</link>
+      <pubDate>Tue, 14 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://hheelo.github.io/cn/posts/life/hotpot/</guid>
-      <description>请欣赏川味火锅！</description>
+      <guid>https://hheelo.github.io/cn/posts/tech/blog_set/</guid>
+      <description>简要记录一下本站搭建经过</description>
     </item>
     
     <item>
