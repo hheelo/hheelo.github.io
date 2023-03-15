@@ -2,9 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://hheelo.github.io/cn/posts/tech/</loc>
-    <lastmod>2023-03-14T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://hheelo.github.io/cn/posts/</loc>
     <lastmod>2023-03-15T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -23,12 +20,6 @@
   </url><url>
     <loc>https://hheelo.github.io/cn/series/animal/</loc>
     <lastmod>2023-03-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://hheelo.github.io/cn/tags/blog/</loc>
-    <lastmod>2023-03-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://hheelo.github.io/cn/series/blog/</loc>
-    <lastmod>2023-03-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://hheelo.github.io/cn/tags/dog/</loc>
     <lastmod>2023-03-15T00:00:00+00:00</lastmod>
@@ -49,9 +40,6 @@
                 href="https://hheelo.github.io/cn/series/"
                 />
   </url><url>
-    <loc>https://hheelo.github.io/cn/series/tech/</loc>
-    <lastmod>2023-03-14T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://hheelo.github.io/cn/</loc>
     <lastmod>2023-03-15T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -64,9 +52,6 @@
                 hreflang="cn"
                 href="https://hheelo.github.io/cn/"
                 />
-  </url><url>
-    <loc>https://hheelo.github.io/cn/posts/tech/blog_set/</loc>
-    <lastmod>2023-03-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://hheelo.github.io/cn/tags/</loc>
     <lastmod>2023-03-15T00:00:00+00:00</lastmod>
@@ -81,10 +66,28 @@
                 href="https://hheelo.github.io/cn/tags/"
                 />
   </url><url>
-    <loc>https://hheelo.github.io/cn/posts/life/dog_0314/</loc>
+    <loc>https://hheelo.github.io/cn/posts/life/dog_0315/</loc>
     <lastmod>2023-03-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://hheelo.github.io/cn/posts/life/</loc>
+    <lastmod>2023-03-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hheelo.github.io/cn/posts/tech/</loc>
+    <lastmod>2023-03-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hheelo.github.io/cn/tags/blog/</loc>
+    <lastmod>2023-03-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hheelo.github.io/cn/series/blog/</loc>
+    <lastmod>2023-03-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hheelo.github.io/cn/series/tech/</loc>
+    <lastmod>2023-03-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hheelo.github.io/cn/posts/tech/blog_set/</loc>
+    <lastmod>2023-03-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hheelo.github.io/cn/posts/life/dog_0314/</loc>
     <lastmod>2023-03-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://hheelo.github.io/cn/posts/life/dog_0312/</loc>
