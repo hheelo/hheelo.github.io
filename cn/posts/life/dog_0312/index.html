@@ -284,13 +284,57 @@ code.has-jax {
             </span>
 
 </div>
-        </header> 
-        
+        </header>
+
         
         <div class="post-content"><p>周日晚上和朋友在外面趟路，偶遇一只坐在车里的哈士奇。但它没有二哈那样“智慧”的眼神，反而显得拟人化。见我们来了也不叫唤。</p>
-<div align=center><img src="IMG_8006.jpeg" style="zoom:25%;" /></div>
-<div align=center><img src="IMG_8007.jpeg" style="zoom:25%;" /></div>
-<div align=center><img src="IMG_8008.jpeg" style="zoom:25%;" /></div>
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.4.2/css/swiper.min.css">
+    
+    <div class="swiper-container">
+        <div class="swiper-wrapper">
+            
+            
+            <div class="swiper-slide">
+                <img src="IMG_8006.jpeg" alt="">
+            </div>
+            
+            <div class="swiper-slide">
+                <img src="IMG_8007.jpeg" alt="">
+            </div>
+            
+            <div class="swiper-slide">
+                <img src="IMG_8008.jpeg" alt="">
+            </div>
+            
+        </div>
+        
+        <div class="swiper-pagination"></div>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.4.2/js/swiper.min.js"></script>
+     
+     <script>
+        var swiper = new Swiper('.swiper-container', {
+            pagination: '.swiper-pagination',
+            paginationClickable: true,
+        
+        autoHeight: true,
+        
+        keyboardControl : true,
+        
+        mousewheelControl : true,
+        
+        
+        
+        lazyLoading : true,
+		lazyLoadingInPrevNext : true,
+		
+		loop : true,
+        });
+        </script>
+
+
 
 
         </div>
